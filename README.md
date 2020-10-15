@@ -1,4 +1,4 @@
-# selecting-scaffold
+# Selecting-scaffold
 
 This program select all informations about the same scaffold from three files.
 
